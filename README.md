@@ -1,4 +1,1 @@
-Function
-========
-
-A Function Landing Page 
+A good landing page
