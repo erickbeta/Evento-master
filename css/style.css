@@ -107,6 +107,8 @@ a:hover {
 }
 
 p {
+  color: black;
+  font-style: bold;
     font-size: 1.6rem;
   line-height: 1.6em;
     font-family: 'Open Sans', sans-serif;
@@ -255,7 +257,7 @@ input[type='submit']:active {
 }
 
 .header-menu > .box {
-  background: #FF00FF;
+  background: #555555;
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -1479,5 +1481,22 @@ font-weight: bold;
   background-image: url(../images/wordpress.png);
 }
 
+.flowers1{
+  width: 50px;
+}
 
+.wedding-couple{
+  width: 50px;
+}
 
+.rest{
+  width: 50px;
+}
+
+.wedding-dress{
+  width: 50px;
+}
+
+.cheers{
+  width: 50px;
+}
